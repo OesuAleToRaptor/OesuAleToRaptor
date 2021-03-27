@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @OesuAleToRaptor
-- 👀 I’m interested in the salvation of the raptor civilization
-- 🌱 I’m currently learning how not to be an obvious dinosaur
-- 💞️ I’m looking to collaborate on reptile proliferation
+- 👋 Hi, I’m a casual reptile
 - 📫 There's really no need to reach me
 
 <!---
